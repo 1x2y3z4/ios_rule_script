@@ -11,6 +11,7 @@
 payload:
   - DOMAIN-KEYWORD,newshosting
   - DOMAIN-KEYWORD,clubmonaco
+  - DOMAIN-SUFFIX,garmin.com
   - DOMAIN-SUFFIX,newsgroup.ninja
   - DOMAIN-SUFFIX,news.newsgroup.ninja
   - DOMAIN-SUFFIX,newshosting.com
