@@ -7,6 +7,7 @@
 # TOTAL: 16
 payload:
   - GEOSITE,category-games@cn,DIRECT
+  - DOMAIN-SUFFIX,cdn.ubi.com,DIRECT
   - DOMAIN-SUFFIX,steamserver.net,DIRECT
   - DOMAIN-SUFFIX,cm.steampowered.com,DIRECT
   - IP-CIDR,45.121.184.0/24,DIRECT
