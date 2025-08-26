@@ -13,6 +13,7 @@ payload:
   - DOMAIN-KEYWORD,clubmonaco
   - DOMAIN-SUFFIX,garmin.com
   - DOMAIN-SUFFIX,rakuten.co.jp
+  - DOMAIN-SUFFIX,dogfight360.com
   - DOMAIN,marketplace.visualstudio.com
   - DOMAIN-SUFFIX,newsgroup.ninja
   - DOMAIN-SUFFIX,news.newsgroup.ninja
