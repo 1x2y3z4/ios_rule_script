@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,rakuten.co.jp
   - DOMAIN-SUFFIX,dogfight360.com
   - DOMAIN,marketplace.visualstudio.com
+  - DOMAIN-SUFFIX,vscode-cdn.net
   - DOMAIN-SUFFIX,newsgroup.ninja
   - DOMAIN-SUFFIX,news.newsgroup.ninja
   - DOMAIN-SUFFIX,newshosting.com
