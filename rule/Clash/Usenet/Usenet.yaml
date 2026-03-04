@@ -11,6 +11,7 @@
 payload:
   - DOMAIN-KEYWORD,newshosting
   - DOMAIN-KEYWORD,clubmonaco
+  - URL-REGEX,/cdn-cgi/trace
   - DOMAIN-SUFFIX,imagedelivery.net
   - DOMAIN-SUFFIX,garmin.com
   - DOMAIN-SUFFIX,wp.com
